@@ -1,3 +1,5 @@
+#Princess Emmanuel Okhai
+
 class SavingsAccount:
     def __init__(self, name, balance=0, interest_rate=0.02):
         super().__init__(name, balance)
